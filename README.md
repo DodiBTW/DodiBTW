@@ -1,4 +1,5 @@
 # Hello, I'm DodiBTW (Ahmad Daoud)!
+[Version française!](https://github.com/DodiBTW/DodiBTW/blob/main/README.fr.md)
 ## Who am I?
 - I am a **developer** and **enthusiast** of the IT world!
 - I am also a **student** and an **intern** from **France**, in my 3rd year of a bachelor's degree.
