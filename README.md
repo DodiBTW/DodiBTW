@@ -11,7 +11,7 @@
 - **Docker**🐳 for all my projects
 - **Linux**🐧 to host my services, including my **portfolio** (english version coming soon)
 ## My experience💼
-- Currently an part of an ERP migration 📊. I create data formalization scripts and perform advanced configurations 
+- Currently a part of an ERP migration 📊. I create data formalization scripts and perform advanced configurations 
 - I have completed several internships and projects developing websites in PHP
 ## My education🎓
 I am a 3rd-year Bachelor's student in computer science at ESGI, specializing in software architecture 
