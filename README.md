@@ -4,6 +4,9 @@
 - I am a **developer** and **enthusiast** of the IT world!
 - I am also a **student** and an **intern** from **France**, in my 3rd year of a bachelor's degree.
 
+## 📈 GitHub Stats
+![DodiBTW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DodiBTW&show_icons=true&theme=radical)
+
 ## My skills
 - **C#** and **.NET**🔧 for backend applications or services (API)
 - **Python**🐍 for scripts and automation, like my [Reddit video generator](https://github.com/DodiBTW/reddit-video-generator/)
