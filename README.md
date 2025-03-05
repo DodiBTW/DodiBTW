@@ -5,7 +5,9 @@
 - I am also a **student** and an **intern** from **France**, in my 3rd year of a bachelor's degree.
 
 ## 📈 GitHub Stats
-![DodiBTW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DodiBTW&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DodiBTW&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DodiBTW&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DodiBTW&theme=dark)
 
 ## My skills
 - **C#** and **.NET**🔧 for backend applications or services (API)
