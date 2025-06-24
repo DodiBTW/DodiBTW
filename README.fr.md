@@ -5,7 +5,7 @@ Je suis également un étudiant et alternant en 3ᵉ année.
 ## Mes compétences
 - **C#** et **.NET**🔧 pour des applications ou services backend (API) 
 - **Python**🐍 pour des scripts et automatisations, comme mon **[générateur de vidéo reddit](https://github.com/DodiBTW/Reddit-video-generator)**
-- **TypeScript** et **PHP** pour des applications webs 🌐 <u>robustes</u>.
+- **TypeScript** et **Revisia** pour des applications webs 🌐 <u>robustes</u> comme [Revisia](https://revisia.adaoud.dev).
 - **Docker**🐳 pour tous mes projets.
 - **Linux**🐧 pour héberger mes services ainsi que mon **[portfolio](https://adaoud.dev)**.
 ## Mes expériences
