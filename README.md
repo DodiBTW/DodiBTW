@@ -12,7 +12,7 @@
 ## My skills
 - **C#** and **.NET**🔧 for backend applications or services (API)
 - **Python**🐍 for scripts and automation, like my [Reddit video generator](https://github.com/DodiBTW/reddit-video-generator/)
-- **TypeScript** and **PHP** for <u>robust</u> web applications
+- **TypeScript** and **Svelte** for <u>robust</u> web applications, like [Revisia](https://revisia.adaoud.dev/)
 - **Docker**🐳 for all my projects
 - **Linux**🐧 to host my services, including my **portfolio** (english version coming soon)
 ## My experience💼
